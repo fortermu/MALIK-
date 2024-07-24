@@ -42,8 +42,10 @@ Give MALIK-MD a star to show your appreciation and support 🌟 to the team.
 
 ## 🎯 `Need help? Chat on WhatsApp` 🎯
 
-  <a href="wa.me/923264329026" target="_blank">
-## fork the repo
+  <a href="https//:wa.me/+923263429027" target="_blank">
+  <button>Chat on WhatsApp</button>
+</a>
+
   <a href="https://github.com/fortermu/MALIK/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK MALIK-MD-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
