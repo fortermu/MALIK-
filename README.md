@@ -40,12 +40,12 @@ Give MALIK-MD a star to show your appreciation and support 🌟 to the team.
 
 
 
-## 🎯 `Installation Procedure` 🎯
+## 🎯 `Need help? Chat on WhatsApp` 🎯
 
-
-
+  <a href="wa.me/923264329026" target="_blank">
+## fork the repo
   <a href="https://github.com/fortermu/MALIK/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK Zenon-bot-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/FORK MALIK-MD-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
