@@ -4,7 +4,7 @@ const { listall } = require('../lib/fancy')
 command(
  {
   pattern: 'fancy',
-  fromMe: isPrivate,
+  fromMe: false,
   desc: 'converts text to fancy text',
   type: 'converter',
  },
