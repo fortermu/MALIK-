@@ -19,7 +19,7 @@ bot(
 bot(
  {
   pattern: 'vv',
-  fromMe: isPrivate,
+  fromMe: true,
   desc: 'Forwards The View once messsage',
   type: 'whatsapp',
  },
